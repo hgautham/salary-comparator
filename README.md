@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Salary Comparator:
+
+This tool allows you to compare after tax income across US cities
+
+
+# Shout outs
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
