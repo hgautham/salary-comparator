@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/salary-comparator/static/css/main.7a2c245c.chunk.css",
+    "main.js": "/salary-comparator/static/js/main.acf64a48.chunk.js",
+    "main.js.map": "/salary-comparator/static/js/main.acf64a48.chunk.js.map",
+    "runtime-main.js": "/salary-comparator/static/js/runtime-main.cf525b41.js",
+    "runtime-main.js.map": "/salary-comparator/static/js/runtime-main.cf525b41.js.map",
+    "static/js/2.48f3d2ee.chunk.js": "/salary-comparator/static/js/2.48f3d2ee.chunk.js",
+    "static/js/2.48f3d2ee.chunk.js.map": "/salary-comparator/static/js/2.48f3d2ee.chunk.js.map",
+    "static/js/3.b358f8a5.chunk.js": "/salary-comparator/static/js/3.b358f8a5.chunk.js",
+    "static/js/3.b358f8a5.chunk.js.map": "/salary-comparator/static/js/3.b358f8a5.chunk.js.map",
+    "index.html": "/salary-comparator/index.html",
+    "static/css/main.7a2c245c.chunk.css.map": "/salary-comparator/static/css/main.7a2c245c.chunk.css.map",
+    "static/js/2.48f3d2ee.chunk.js.LICENSE.txt": "/salary-comparator/static/js/2.48f3d2ee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/salary-comparator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf525b41.js",
+    "static/js/2.48f3d2ee.chunk.js",
+    "static/css/main.7a2c245c.chunk.css",
+    "static/js/main.acf64a48.chunk.js"
+  ]
+}
